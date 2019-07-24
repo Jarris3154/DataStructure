@@ -13,8 +13,8 @@ public class Doudizhu {
         String[] colors = new String[]{"♠", "♥", "♣", "♦"};
         String[] numbers = new String[]{"3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A", "2"};
 
-        poker.add("大王");
-        poker.add("小王");
+        poker.add("Red Joker");
+        poker.add("Black Joker");
         for (String color : colors) {
             for (String number : numbers) {
                 poker.add(color + number);
