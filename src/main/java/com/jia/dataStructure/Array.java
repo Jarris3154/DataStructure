@@ -1,4 +1,4 @@
-package com.jia;
+package com.jia.dataStructure;
 
 import lombok.Getter;
 import lombok.Setter;

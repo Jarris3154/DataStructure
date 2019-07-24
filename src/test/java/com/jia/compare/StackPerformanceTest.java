@@ -1,8 +1,8 @@
 package com.jia.compare;
 
-import com.jia.linkedlist.LinkedListStack;
-import com.jia.stack.ArrayStack;
-import com.jia.stack.Stack;
+import com.jia.dataStructure.linkedlist.LinkedListStack;
+import com.jia.dataStructure.stack.ArrayStack;
+import com.jia.dataStructure.stack.Stack;
 import org.junit.Test;
 
 import java.util.Random;

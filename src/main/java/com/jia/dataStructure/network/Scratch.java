@@ -1,4 +1,4 @@
-package com.jia.network;
+package com.jia.dataStructure.network;
 
 import org.apache.commons.net.telnet.TelnetClient;
 

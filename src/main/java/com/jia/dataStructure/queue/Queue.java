@@ -1,4 +1,4 @@
-package com.jia.queue;
+package com.jia.dataStructure.queue;
 
 /**
  * @author Jarris

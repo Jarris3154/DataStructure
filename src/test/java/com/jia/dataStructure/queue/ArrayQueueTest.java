@@ -1,8 +1,6 @@
-package com.jia.queue;
+package com.jia.dataStructure.queue;
 
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * @author Jarris

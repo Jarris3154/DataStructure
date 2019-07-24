@@ -1,8 +1,6 @@
-package com.jia.linkedlist;
+package com.jia.dataStructure.linkedlist;
 
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * @author Jarris

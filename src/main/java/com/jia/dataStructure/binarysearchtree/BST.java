@@ -1,4 +1,4 @@
-package com.jia.binarysearchtree;
+package com.jia.dataStructure.binarysearchtree;
 
 /**
  * @author Jarris

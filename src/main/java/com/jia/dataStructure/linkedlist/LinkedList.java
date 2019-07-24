@@ -1,4 +1,4 @@
-package com.jia.linkedlist;
+package com.jia.dataStructure.linkedlist;
 
 import lombok.Getter;
 

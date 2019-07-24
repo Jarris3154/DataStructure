@@ -1,6 +1,5 @@
-package com.jia.stack;
+package com.jia.dataStructure.stack;
 
-import com.jia.stack.ArrayStack;
 import org.junit.Before;
 import org.junit.Test;
 

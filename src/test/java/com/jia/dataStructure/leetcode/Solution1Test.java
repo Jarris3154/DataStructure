@@ -1,4 +1,4 @@
-package com.jia.leetcode;
+package com.jia.dataStructure.leetcode;
 
 import org.junit.Test;
 
