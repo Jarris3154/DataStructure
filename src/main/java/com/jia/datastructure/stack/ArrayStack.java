@@ -1,6 +1,6 @@
-package com.jia.dataStructure.stack;
+package com.jia.datastructure.stack;
 
-import com.jia.dataStructure.Array;
+import com.jia.datastructure.Array;
 
 /**
  * @author Jarris

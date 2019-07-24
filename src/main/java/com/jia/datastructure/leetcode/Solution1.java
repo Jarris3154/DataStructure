@@ -1,4 +1,4 @@
-package com.jia.dataStructure.leetcode;
+package com.jia.datastructure.leetcode;
 
 import java.util.HashMap;
 import java.util.Map;

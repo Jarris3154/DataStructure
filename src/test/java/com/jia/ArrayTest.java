@@ -1,6 +1,6 @@
 package com.jia;
 
-import com.jia.dataStructure.Array;
+import com.jia.datastructure.Array;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

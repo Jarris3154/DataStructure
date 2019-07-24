@@ -1,6 +1,6 @@
-package com.jia.dataStructure.linkedlist;
+package com.jia.datastructure.linkedlist;
 
-import com.jia.dataStructure.stack.Stack;
+import com.jia.datastructure.stack.Stack;
 
 /**
  * @author Jarris

@@ -1,4 +1,4 @@
-package com.jia.dataStructure.network;
+package com.jia.tools.network;
 
 import org.apache.commons.net.telnet.TelnetClient;
 
@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * @author Jarris
  */
-public class Scratch {
+public class Network {
 
     public static void main(String[] args){
         List<String> ips = new ArrayList<>();

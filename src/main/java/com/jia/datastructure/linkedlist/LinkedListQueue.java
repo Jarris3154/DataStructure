@@ -1,6 +1,6 @@
-package com.jia.dataStructure.linkedlist;
+package com.jia.datastructure.linkedlist;
 
-import com.jia.dataStructure.queue.Queue;
+import com.jia.datastructure.queue.Queue;
 
 /**
  * @author Jarris

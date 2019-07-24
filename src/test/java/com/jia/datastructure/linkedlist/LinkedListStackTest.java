@@ -1,4 +1,4 @@
-package com.jia.dataStructure.linkedlist;
+package com.jia.datastructure.linkedlist;
 
 import org.junit.Test;
 

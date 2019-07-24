@@ -1,4 +1,4 @@
-package com.jia.dataStructure.queue;
+package com.jia.datastructure.queue;
 
 import org.junit.Test;
 

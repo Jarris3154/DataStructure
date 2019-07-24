@@ -1,4 +1,4 @@
-package com.jia.dataStructure.stack;
+package com.jia.datastructure.stack;
 
 /**
  * @author Jarris

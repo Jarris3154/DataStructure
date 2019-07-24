@@ -1,6 +1,6 @@
-package com.jia.dataStructure.queue;
+package com.jia.datastructure.queue;
 
-import com.jia.dataStructure.Array;
+import com.jia.datastructure.Array;
 
 /**
  * @author Jarris
