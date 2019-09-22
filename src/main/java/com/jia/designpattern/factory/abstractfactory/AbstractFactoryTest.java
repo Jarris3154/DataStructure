@@ -7,6 +7,7 @@ import com.jia.designpattern.factory.model.Fruit;
  * @author Jarris
  */
 public class AbstractFactoryTest {
+
     public static void main(String[] args) {
         AbstractFruitFactory fruitFactory = new AppleFactory();
 
